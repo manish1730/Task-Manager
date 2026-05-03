@@ -261,3 +261,4 @@ That is expected. Only admins are allowed to create projects.
 ## Author
 
 Built as a Team Task Manager project using React, Express, MongoDB, and Node.js.
+
